@@ -5,20 +5,7 @@ I’m a **software specialist transitioning into full-time development**, with 1
 ---
 
 ## 🔹 What I Work With  
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Assembly](https://img.shields.io/badge/x86_Assembly-555555?style=for-the-badge)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
+<p align="center"> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/x86_Assembly-555555?style=for-the-badge"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
 ---
 
 ## 🔹 My Edge  
@@ -30,10 +17,10 @@ I’ve lived on both sides of the stack: supporting complex systems in productio
 ---
 
 ## 🔹 Featured Projects  
-- 📱 **Mobile Apps** – Cross-platform apps built with Ionic + Capacitor  
-- 🧪 **Security Experiments** – Pen-testing write-ups, Hydra automation, IDA Pro reversals  
-- 🎮 **Creative Hacks** – Lua mods for Mario 64 PC, Arduino projects, and small electronics builds  
-- 🖥️ **Systems** – x86 bootloader building blocks from scratch  
+- 📱 **Mobile Apps** - Cross-platform apps built with Ionic + Capacitor  
+- 🧪 **Security Experiments** - Pen-testing write-ups, Hydra automation, IDA Pro reversals  
+- 🎮 **Creative Hacks** - Lua mods for Mario 64 PC, Arduino projects, and small electronics builds  
+- 🖥️ **Systems** - x86 bootloader building blocks from scratch  
 
 👉 Check my pinned repos below for hands-on work.  
 
@@ -47,4 +34,4 @@ I’ve lived on both sides of the stack: supporting complex systems in productio
 ---
 
 ## 🔹 Next Steps  
-I’m pursuing growth into a **dedicated software engineering role** where I can merge my **hacker mindset**, **builder’s curiosity**, and **professional delivery** into products that make a difference.
+I’m pursuing growth into a **dedicated software engineering role** where I can merge my **builder’s curiosity**, and **professional delivery** into products that make a difference.
