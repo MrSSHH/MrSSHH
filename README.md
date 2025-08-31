@@ -41,8 +41,8 @@ I’ve lived on both sides of the stack: supporting complex systems in productio
 
 ## 🔹 GitHub Stats  
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSSHH&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSSHH&layout=compact&theme=radical)  
 
 ---
 
