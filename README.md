@@ -18,11 +18,8 @@ I’ve lived on both sides of the stack: supporting complex systems in productio
 
 ## 🔹 Featured Projects  
 - 📱 **Mobile Apps** - Cross-platform apps built with Ionic + Capacitor  
-- 🧪 **Security Experiments** - Pen-testing write-ups, Hydra automation, IDA Pro reversals  
+- 🧪 **Security Experiments on work** - Pen-testing write-ups, Hydra automation, IDA Pro reversals  
 - 🎮 **Creative Hacks** - Lua mods for Mario 64 PC, Arduino projects, and small electronics builds  
-- 🖥️ **Systems** - x86 bootloader building blocks from scratch  
-
-👉 Check my pinned repos below for hands-on work.  
 
 ---
 
