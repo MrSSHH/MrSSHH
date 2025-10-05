@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ben  
 
-I’m a **software specialist transitioning into full-time development**, with 10+ years of Linux as my main OS and a passion for building—from **low-level bootloaders** in assembly to **cross-platform mobile apps** with Ionic and Capacitor.  
+I’m a **software specialist transitioning into full-time development**, with 10+ years of Linux as my main OS and a passion for building from **low-level bootloaders** in assembly to **cross-platform mobile apps** with Ionic and Capacitor.  
 
 ---
 
